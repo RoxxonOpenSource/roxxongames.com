@@ -1,6 +1,6 @@
 export const settings = {
-  site: 'https://cannonball.littlesticks.dev',
-  name: 'Little Sticks',
-  title: 'Cannonball by Little Sticks | A splash page template',
-  description: 'This is a simple splash page template built with Astro by Little Sticks',
+  site: 'https://roxxongames.com',
+  name: 'Roxxon Games',
+  title: 'Coming Soon | Roxxon Games',
+  description: 'Welcome to Roxxon Games.',
 }
